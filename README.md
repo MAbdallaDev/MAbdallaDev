@@ -34,7 +34,7 @@ I am a passionate Front End Developer with a strong foundation in Software Engin
 - Technologies: HTML, CSS, JavaScript
 
   
-### Other Projects:
+### Other Projects
 #### [Front-end Mentor landing page](https://landing-page-teilwind.vercel.app/)
 
 ## Education
