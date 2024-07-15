@@ -33,6 +33,10 @@ I am a passionate Front End Developer with a strong foundation in Software Engin
 - Integrated the TMDB API for fetching up-to-date movie information
 - Technologies: HTML, CSS, JavaScript
 
+  
+###Other Projects:
+####[Front-end Mentor landing page](https://landing-page-teilwind.vercel.app/)
+
 ## Education
 
 **Minia University**  
