@@ -95,10 +95,8 @@ The complete front end for an inventory system with a Laravel back end, covering
 ## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MAbdallaDev&show_icons=true&hide_border=true&count_private=true#gh-light-mode-only" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAbdallaDev&layout=compact&hide_border=true#gh-light-mode-only" alt="Top languages"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MAbdallaDev&show_icons=true&hide_border=true&count_private=true&theme=github_dark#gh-dark-mode-only" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAbdallaDev&layout=compact&hide_border=true&theme=github_dark#gh-dark-mode-only" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MAbdallaDev&show_icons=true&hide_border=true&count_private=true&theme=github_dark" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAbdallaDev&layout=compact&hide_border=true&theme=github_dark" alt="Top languages"/>
 </p>
 
 ---
