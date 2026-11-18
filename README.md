@@ -73,9 +73,9 @@ A multi-channel support CRM built end to end with a spec-driven, AI-assisted wor
 - Ticketing with SLA tracking and escalation, a customer 360 view, a bilingual (Arabic/English) knowledge base, a self-service customer portal and manager reports
 - Role-based access control, with a separate trust boundary for the customer portal
 - OpenAPI/Swagger-documented API; CI checks enforce RTL layout and translation parity
-- **428 back-end and 251 front-end tests**, all passing
+- **450+ back-end and 310+ front-end tests**, all passing
 
-`Django 5` `DRF` `PostgreSQL 16` `React 19` `TypeScript` `Tailwind CSS` `Docker`
+`Django 5` `DRF` `PostgreSQL 16` `React 19` `TypeScript` `Tailwind CSS` `Docker` `Vercel`
 
 ### 📦 [Inventory Management System](https://github.com/MAbdallaDev/inventory-mangement-system)
 The complete front end for an inventory system with a Laravel back end, covering products, invoicing and client tracking.
