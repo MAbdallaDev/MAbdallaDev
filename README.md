@@ -67,7 +67,7 @@ I build custom **Odoo ERP** modules and the integrations that connect Odoo to th
 
 ## Featured projects
 
-### 🎫 [Customer Support CRM](https://github.com/MAbdallaDev/azm-support-crm)
+### 🎫 [Customer Support CRM](https://github.com/MAbdallaDev/support-crm) | [Live demo](https://mabdalla-crm.vercel.app)
 A multi-channel support CRM built end to end with a spec-driven, AI-assisted workflow.
 
 - Ticketing with SLA tracking and escalation, a customer 360 view, a bilingual (Arabic/English) knowledge base, a self-service customer portal and manager reports
